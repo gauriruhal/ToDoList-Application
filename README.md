@@ -8,6 +8,8 @@ the to-do list created has a beautiful UI, the user can add a to-do by filling t
 
 The user's to-do list is stored in the local storage, so when user refreshes the page, user can always find the list there.
 
+![](ToDoList-screenshot.png)
+
 
 
 
