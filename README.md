@@ -11,6 +11,11 @@ The user's to-do list is stored in the local storage, so when user refreshes the
 ![](ToDoList-screenshot.png)
 
 
+## Update
+I have deployed my app using heroku
+https://floating-harbor-93959.herokuapp.com/
+
+
 
 
 
